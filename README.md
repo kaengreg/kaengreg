@@ -3,7 +3,7 @@
 I am currently working at MSU RCC-LAIR
 
 ## Education 🎓
-- 2021-2025 MSU CMC 
+- 2021-2025 Bachelor MSU CMC 
 
 ## Projects 🤖
 - 2024-present time: rusBEIR - comprehensive benchmark designed for zero-shot evaluation of information retrieval (IR) models in the Russian language
