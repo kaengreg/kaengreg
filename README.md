@@ -10,3 +10,5 @@ I am currently working at MSU RCC-LAIR
 - 2024 **Coursework**: Methods for distilling large language models
 - 2024-2025 **Diploma**: Approaches for LLM distillation and their practical applications
 
+## Datasets
+All my datasets collected/created for both rusBEIR and other projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kngrg)
