@@ -7,6 +7,7 @@ I am currently working at MSU RCC-LAIR
 
 ## Projects 🤖
 - 2024-present time: [RusBEIR](https://github.com/kaengreg/rusBeIR) - comprehensive benchmark designed for zero-shot evaluation of information retrieval (IR) models in the Russian language
+- WikiFacts - multilingual Wikipedia-based Information Retrieval Dataset 
 - 2024 **Coursework**: Methods for distilling large language models
 - 2024-2025 [**Diploma**](https://github.com/kaengreg/layer-wise_distillation): Approaches for LLM distillation and their practical applications
 
