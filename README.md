@@ -7,10 +7,9 @@ I am currently working at MSU RCC-LAIR
 
 ## Projects 🤖
 - 2024-present time: [RusBEIR](https://github.com/kaengreg/rusBeIR) - comprehensive benchmark designed for zero-shot evaluation of information retrieval (IR) models in the Russian language
-- [WikiFacts-bench](https://github.com/kaengreg/wikifacts-bench) - multilingual Wikipedia-based RAG benchmark
 - 2024 **Coursework**: Methods for distilling large language models
 - 2024-2025 [**Diploma**](https://github.com/kaengreg/layer-wise_distillation): Approaches for LLM distillation and their practical applications
-- 2025-present time: [WikiFacts-Bench](https://github.com/kaengreg/wikifacts-bench) - multilingual Wikipedia-based dataset for RAG benchmark
+- 2025-present time: [WikiFacts-Bench](https://github.com/kaengreg/wikifacts-bench) - multilingual Wikipedia-based dataset and framework for RAG benchmark
 
 ## Datasets 📚
 All my datasets collected/created for both rusBEIR and other projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kaengreg)
