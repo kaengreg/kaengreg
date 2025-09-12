@@ -3,7 +3,8 @@
 I am currently working at MSU RCC-LAIR
 
 ## Education 🎓
-- 2021-2025 **Bachelor of Computer Science and Mathematics**, MSU CMC 
+- 2021-2025 **Bachelor of Computer Science and Mathematics**, MSU CMC
+- 2025-present time **Masters of Computer Science and Mathematics**, MSU CMC
 
 ## Projects 🤖
 - 2024-present time: [RusBEIR](https://github.com/kaengreg/rusBeIR) - comprehensive benchmark designed for zero-shot evaluation of information retrieval (IR) models in the Russian language
