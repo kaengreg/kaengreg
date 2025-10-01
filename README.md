@@ -11,9 +11,11 @@ I am currently working at MSU RCC-LAIR
 - 2024 **Coursework**: Methods for distilling large language models
 - 2024-2025 [**Diploma**](https://github.com/kaengreg/layer-wise_distillation): Approaches for LLM distillation and their practical applications
 - 2025-present time: [WikiFacts-Bench](https://github.com/kaengreg/wikifacts-bench) - multilingual Wikipedia-based dataset and framework for RAG benchmark
+- 2025-present time: [ruadapt](https://github.com/RefalMachine/ruadapt) - framework for adaptation of Large Language Models to Russian Language
+
 
 ## Datasets 📚
-All my datasets collected/created for both rusBEIR and other projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kaengreg)
+All my datasets/models collected/created for both rusBEIR and other projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kaengreg)
 
 ## Contacts 📱
 * HuggingFace: [kaengreg](https://huggingface.co/kaengreg?search_datasets=wikifacts)
