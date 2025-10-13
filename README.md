@@ -14,8 +14,8 @@ I am currently working at MSU RCC-LAIR
 - 2025-present time: [ruadapt](https://github.com/RefalMachine/ruadapt) - framework for adaptation of Large Language Models to Russian Language
 
 
-## Datasets 📚
-All my datasets/models collected/created for both rusBEIR and other projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kaengreg)
+## Datasets & Models 📚
+All my datasets/models collected/created for my projects are open-sourced and could be found at [HuggingFace](https://huggingface.co/kaengreg)
 
 ## Contacts 📱
 * HuggingFace: [kaengreg](https://huggingface.co/kaengreg?search_datasets=wikifacts)
