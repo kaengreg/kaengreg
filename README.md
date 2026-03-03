@@ -21,7 +21,7 @@ All my datasets/models collected/created for my projects are open-sourced and co
 * [Building Russian Benchmark for Evaluation of Information Retrieval Models](https://dialogue-conf.org/wp-content/uploads/2025/06/KovalevGetal.046.pdf)  - Dialogue 2025 Conference
 * [Iterative Layer-wise Distillation for Efficient Compression of Large Language Models](https://arxiv.org/abs/2511.05085) - DAMDID/RCDL'2025 (awaiting publication in the conference proceedings)
 * [Wikipedia-based Datasets in Russian Information Retrieval Benchmark RusBEIR ](https://arxiv.org/abs/2511.05079) - DAMDID/RCDL'2025 (awaiting publication in the conference proceedings)
-* **Distillation for Adaptation Language Models to Russian Language**  (awaiting journal publication)
+* [Distillation for Adaptation Language Models to Russian Language](https://superfri.susu.ru/index.php/superfri/article/download/641/798) 
 
 ## Contacts 📱
 * HuggingFace: [kaengreg](https://huggingface.co/kaengreg?search_datasets=wikifacts)
